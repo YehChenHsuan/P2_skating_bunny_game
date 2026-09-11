@@ -1,4 +1,4 @@
-{
+window.SENTENCES_AUDIO_MAP = {
   "Collect all carrots starting with Bb": "assets/audios/sentences/bunny_collect_bb.mp3",
   "Find words starting with Bb": "assets/audios/sentences/bunny_find_bb.mp3",
   "Find words starting with letter Bb": "assets/audios/sentences/bunny_find_let_bb.mp3",
@@ -16,4 +16,4 @@
   "Before I sleep, I pack my school bag. ... What do I pack before sleep?": "assets/audios/sentences/bunny_act_9d5307f1.mp3",
   "This is my daily routine. I go to bed at night. ... Where do I sleep at night?": "assets/audios/sentences/bunny_act_c5fdbfb2.mp3",
   "In the morning, I drink a glass of fresh milk. ... What do I drink in the morning?": "assets/audios/sentences/bunny_act_e0e0636c.mp3"
-}
+};
